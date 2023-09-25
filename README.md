@@ -10,9 +10,6 @@ description: A web-based bot enlistment application.
 author: Samuel Akpan
 date: 2023-09-23
 
-
-# Rest of your README content...
-
 ## Features
 
 - View a list of bank transactions.
