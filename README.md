@@ -5,6 +5,13 @@
 
 The Bank Transaction app is a web application built with ReactJS that allows users to view and search transaction data. Users can search for transactions by description and view the details of each transaction. This project serves as a practical example of building a web application with React and integrating it with a JSON-based API.
 
+title: Bot Battlr App
+description: A web-based bot enlistment application.
+author: Samuel Akpan
+date: 2023-09-23
+
+
+# Rest of your README content...
 
 ## Features
 
