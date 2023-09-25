@@ -1,15 +1,24 @@
 
 # Bank Transaction app
-Table of Contents
+TABLE OF CONTENTS
 ##Overview
+
 ##Features
+
 ##Getting Started
+
 ##Languages Used
+
 ##Usage
+
 ##Dependencies
+
 ##Running the Project
+
 ##Contribution
+
 ##License
+
 ##Status
 
 ## Overview
